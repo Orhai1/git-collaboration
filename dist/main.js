@@ -1,0 +1,1 @@
+document.getElementById("secret").innerText = "This is a secret message!";
